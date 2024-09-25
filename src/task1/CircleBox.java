@@ -4,6 +4,8 @@ public class CircleBox {
 private  int price;
 private  Rectangle CircleCake;
 
+
+
     public CircleBox(int price, Rectangle circleCake) {
         this.price = price;
         CircleCake = circleCake;
